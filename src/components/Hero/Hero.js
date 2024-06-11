@@ -32,7 +32,7 @@ function Hero() {
               <TypeAnimation
                 cursor={false}
                 sequence={[
-                  'Hi, I\'m Pedro.',
+                  'Hi, I\'m Manesh.',
                   () => setShowSubtitle(true)
                 ]}
                 speed={{ type: "keyStrokeDelayInMs", value: 150 }}
@@ -46,7 +46,7 @@ function Hero() {
                     500,
                     'A Full-Stack Developer.',
                     1000,
-                    'A BCIT graduate.',
+                    'A UCM graduate.',
                     // 'I design and code beautifully simple things, and I love what I do.',
                     1000,
                     'A problem solver.',
@@ -94,7 +94,7 @@ function Hero() {
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
               <Image
-                src="/man-svgrepo-com.svg"
+                src="https://media.licdn.com/dms/image/C5603AQF6vfaSY7hTBA/profile-displayphoto-shrink_800_800/0/1598773459566?e=1723680000&v=beta&t=5qoFt2XqVa_BFWpmQCp_KjSHHyu9SS9WXVL6CCKy-WE"
                 alt="man-svgrepo"
               />
             </ScrollAnimation>

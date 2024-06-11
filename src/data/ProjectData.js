@@ -1,49 +1,58 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "https://learn.g2.com/hubfs/G2CM_FI454_Learn_Article_Images_%5BFacial_recognition%5D_V1a-1.png",
+    title: "Face Recognition Security System",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
+      "This project integrates a camera and motors controlled by Arduino to recognize faces using Python, granting door access only to known individuals. Activities are logged in real-time on Google Firebase, with a Streamlit dashboard for data visualization.",
+    tech_stack: ["Python", "Streamlit", "Google Cloud", "Firebase", "Arduino", "Embedded C"],
     github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    demo_url: "",
   },
   {
     img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    title: "Project Management Tool",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
+      "Similar to Jira, this tool allows users to create projects and teams, assign teams to projects, create and update user stories, and assign these stories to team members.",
+    tech_stack: ["ReactJs",  "NodeJs", "MongoDB"],
     github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+    demo_url: "",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "https://www.mindmapper.com/wp-content/uploads/2019/01/mind-map-graphic-1024x640.jpg",
+    title: "MindMap",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+      "This tool enables users to quickly capture ideas and organize them into plans, creating tree-like flowcharts for better visualization and structure.",
+    tech_stack: ["Java", "SpringBoot", "HTML", "CSS", "NodeJs", "MySQL",],
+    github_url: "",
+    demo_url: "",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    img: "https://media.wired.com/photos/59346e1031379d0b2f5b7342/master/w_2560%2Cc_limit/TicketMasterTA-614953526.jpg",
+    title: "TicketMaster",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+      "Users can book, view, and cancel tickets for sports events, as well as check payment history. Vendors manage stadiums, update payment status, and create or edit event fixtures.",
+    tech_stack: ["React Native", "NodeJs", "MongoDB"],
+    github_url: "",
+    demo_url: "",
   },
   {
-    img: "/jobDetect.png",
-    title: "JobDetect",
+    img: "https://greenweddingshoes.com/wp-content/uploads/2020/08/backyardindian-wedding-01.jpg",
+    title: "Vivahaa",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+      "This app assists users in planning Indian-style weddings by offering access to various vendors for venues, makeup, photography, decor, and more. Users can book and contact vendors, manage checklists, track budgets, and read reviews, while vendors can manage service postings, check bookings, and respond to user messages.",
+    tech_stack: ["ReactJs",  "NodeJs", "MongoDB"],
+    github_url: "",
+    demo_url: "",
+  },
+  {
+    img: "https://static.vecteezy.com/system/resources/thumbnails/002/409/950/small_2x/flying-airplane-silhouette-design-free-vector.jpg",
+    title: "SkyTravel",
+    description:
+      "This online platform allows users to book and manage flight reservations, receive support, and get airline updates. Airlines have a dashboard to manage flights, routes, schedules, and pricing.",
+    tech_stack:  ["ReactJs",  "NodeJs", "MongoDB"],
+    github_url: "",
+    demo_url: "",
   },
 ];
 
@@ -127,11 +136,39 @@ export const stackList = [
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png",
+    name: "C Sharp",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
   },
+  {
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
+    name: "PostgreSQL",
+  },
+  {
+    img: "https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png",
+    name: "Visual Studio"
+  },
+  {
+    img: "https://iconape.com/wp-content/png_logo_vector/eclipse-2.png",
+    name: "Eclipse"
+  },
+  {
+    img: "https://swimburger.net/media/ppnn3pcl/azure.png",
+    name: "Azure"
+  },
+  {
+    img: "https://colab.research.google.com/img/colab_favicon_256px.png",
+    name: "Colab"
+  },
+  {
+    img: "https://cdn.worldvectorlogo.com/logos/postman.svg",
+    name: "Postman"
+  },
+  {
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png",
+    name: "Arduino IDE"
+  }
 ];

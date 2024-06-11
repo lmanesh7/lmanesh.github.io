@@ -17,26 +17,26 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/man-svgrepo-com.svg"
+            src="https://media.licdn.com/dms/image/C5603AQF6vfaSY7hTBA/profile-displayphoto-shrink_800_800/0/1598773459566?e=1723680000&v=beta&t=5qoFt2XqVa_BFWpmQCp_KjSHHyu9SS9WXVL6CCKy-WE"
             alt="man-svgrepo"
           />
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Laxmana Manesh Jonaboina</strong>. I'm originally from India and have been living in USA for the past one year. During my time here, I gained valuable experience through Masters in Computer Science at University of Central Missouri, which greatly enhanced my work ethic, communication skills, and adaptability.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Science program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
+            Throughout my studies at UCM, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the Mindmapping App and BookMyTickets, projects that garnered recognition from my teammates, instructors, and clients alike.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and AI,ML models development.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
