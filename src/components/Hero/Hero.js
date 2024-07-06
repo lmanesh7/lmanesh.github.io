@@ -105,7 +105,7 @@ function Hero() {
           <ScrollLink>
             Scroll down
             <img
-              src="/scroll-down.svg"
+              src="https://raw.githubusercontent.com/lmanesh7/lmanesh.github.io/gh-pages/scroll-down.svg"
               alt="scroll-down"
             />
           </ScrollLink>
