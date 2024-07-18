@@ -6,17 +6,17 @@ export const ProjectList = [
     description:
       "This project integrates a camera and motors controlled by Arduino to recognize faces using Python, granting door access only to known individuals. Activities are logged in real-time on Google Firebase, with a Streamlit dashboard for data visualization.",
     tech_stack: ["Python", "Streamlit", "Google Cloud", "Firebase", "Arduino", "Embedded C"],
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/lmanesh7/real-time-database-projects",
+    demo_url: "https://share.streamlit.io/lmanesh7/real-time-database-projects/main/water-level-monitoring.py",
   },
   {
-    img: "/renr-responsive.png",
+    img: "https://media.istockphoto.com/id/1286858263/vector/project-management-icon-clipboard-with-gear-isolated-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=2YrEtPB8_6-r-HJmiskFY9OVAI2T8XcH43nMKjjfD7c=",
     title: "Project Management Tool",
     description:
       "Similar to Jira, this tool allows users to create projects and teams, assign teams to projects, create and update user stories, and assign these stories to team members.",
     tech_stack: ["ReactJs",  "NodeJs", "MongoDB"],
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/lmanesh7/Project-Management/tree/master",
+    demo_url: "https://project-management-uufw.onrender.com/",
   },
   {
     img: "https://www.mindmapper.com/wp-content/uploads/2019/01/mind-map-graphic-1024x640.jpg",
@@ -42,7 +42,7 @@ export const ProjectList = [
     description:
       "This app assists users in planning Indian-style weddings by offering access to various vendors for venues, makeup, photography, decor, and more. Users can book and contact vendors, manage checklists, track budgets, and read reviews, while vendors can manage service postings, check bookings, and respond to user messages.",
     tech_stack: ["ReactJs",  "NodeJs", "MongoDB"],
-    github_url: "",
+    github_url: "https://github.com/lmanesh7/Vivahaa",
     demo_url: "",
   },
   {
@@ -51,8 +51,8 @@ export const ProjectList = [
     description:
       "This online platform allows users to book and manage flight reservations, receive support, and get airline updates. Airlines have a dashboard to manage flights, routes, schedules, and pricing.",
     tech_stack:  ["ReactJs",  "NodeJs", "MongoDB"],
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/lmanesh7/sky-travel-frontend",
+    demo_url: "https://lmanesh7.github.io/sky-travel-frontend/",
   },
 ];
 
