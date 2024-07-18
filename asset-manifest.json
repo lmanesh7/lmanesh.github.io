@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/lmanesh.github.io/static/css/main.b9c02d74.css",
-    "main.js": "/lmanesh.github.io/static/js/main.a49f1e48.js",
-    "index.html": "/lmanesh.github.io/index.html",
-    "static/media/blob-haikei.svg": "/lmanesh.github.io/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
-    "main.b9c02d74.css.map": "/lmanesh.github.io/static/css/main.b9c02d74.css.map",
-    "main.a49f1e48.js.map": "/lmanesh.github.io/static/js/main.a49f1e48.js.map"
+    "main.css": "/static/css/main.cb28ad7e.css",
+    "main.js": "/static/js/main.251d1e9f.js",
+    "static/media/software-engineer.png": "/static/media/software-engineer.f05b9227eae32dbeb7b3.png",
+    "index.html": "/index.html",
+    "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.cb28ad7e.css.map": "/static/css/main.cb28ad7e.css.map",
+    "main.251d1e9f.js.map": "/static/js/main.251d1e9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9c02d74.css",
-    "static/js/main.a49f1e48.js"
+    "static/css/main.cb28ad7e.css",
+    "static/js/main.251d1e9f.js"
   ]
 }
