@@ -17,8 +17,7 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="https://media.licdn.com/dms/image/C5603AQF6vfaSY7hTBA/profile-displayphoto-shrink_800_800/0/1598773459566?e=1723680000&v=beta&t=5qoFt2XqVa_BFWpmQCp_KjSHHyu9SS9WXVL6CCKy-WE"
-            alt="man-svgrepo"
+            src={require("../../assets/software-engineer.png")}
           />
         </ScrollAnimation>
           <div className="AboutBio">
