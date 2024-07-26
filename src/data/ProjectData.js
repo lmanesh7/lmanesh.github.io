@@ -16,7 +16,7 @@ export const ProjectList = [
       "Similar to Jira, this tool allows users to create projects and teams, assign teams to projects, create and update user stories, and assign these stories to team members.",
     tech_stack: ["ReactJs",  "NodeJs", "MongoDB"],
     github_url: "https://github.com/lmanesh7/Project-Management/tree/master",
-    demo_url: "https://project-management-uufw.onrender.com/",
+    demo_url: "https://project-management-adfc9.web.app/",
   },
   {
     img: "https://www.mindmapper.com/wp-content/uploads/2019/01/mind-map-graphic-1024x640.jpg",
@@ -33,8 +33,8 @@ export const ProjectList = [
     description:
       "Users can book, view, and cancel tickets for sports events, as well as check payment history. Vendors manage stadiums, update payment status, and create or edit event fixtures.",
     tech_stack: ["React Native", "NodeJs", "MongoDB"],
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/lmanesh7/Ticket-Master",
+    demo_url: "https://ticket-master-0cjw.onrender.com",
   },
   {
     img: "https://greenweddingshoes.com/wp-content/uploads/2020/08/backyardindian-wedding-01.jpg",
