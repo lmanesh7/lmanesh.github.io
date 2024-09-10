@@ -7,7 +7,8 @@ export const ProjectList = [
       "This project integrates a camera and motors controlled by Arduino to recognize faces using Python, granting door access only to known individuals. Activities are logged in real-time on Google Firebase, with a Streamlit dashboard for data visualization.",
     tech_stack: ["Python", "Streamlit", "Google Cloud", "Firebase", "Arduino", "Embedded C"],
     github_url: "https://github.com/lmanesh7/real-time-database-projects",
-    demo_url: "https://share.streamlit.io/lmanesh7/real-time-database-projects/main/water-level-monitoring.py",
+    //demo_url: "https://share.streamlit.io/lmanesh7/real-time-database-projects/main/water-level-monitoring.py",
+    demo_url: "",
   },
   {
     img: "https://media.istockphoto.com/id/1286858263/vector/project-management-icon-clipboard-with-gear-isolated-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=2YrEtPB8_6-r-HJmiskFY9OVAI2T8XcH43nMKjjfD7c=",
