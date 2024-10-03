@@ -22,7 +22,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Laxmana Manesh Jonaboina</strong>. I'm originally from India and have been living in USA for the past one year. During my time here, I gained valuable experience through Masters in Computer Science at University of Central Missouri, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Laxmana Manesh Jonaboina</strong>. I’m a Full Stack Software Engineer with a strong foundation in Python, C#, and Java. I gained valuable experience through Masters in Computer Science at University of Central Missouri, which greatly enhanced my work ethic, communication skills, and adaptability.
             </ScrollAnimation>
 
             <br /><br />
