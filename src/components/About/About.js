@@ -21,16 +21,20 @@ function About() {
           />
         </ScrollAnimation>
           <div className="AboutBio">
-            <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Laxmana Manesh Jonaboina</strong>. I’m a Full Stack Software Engineer with a strong foundation in Python, C#, and Java. I gained valuable experience through Masters in Computer Science at University of Central Missouri, which greatly enhanced my work ethic, communication skills, and adaptability.
-            </ScrollAnimation>
+          <ScrollAnimation animateIn="fadeInLeft">
+            Hello! I’m <strong>Laxmana Manesh Jonaboina</strong>, a Full Stack Software Engineer with over 5 years of experience building scalable, secure, and user-friendly applications. 
+            My expertise spans Python, C#, Java, and modern full-stack frameworks like React, Node.js, and .NET, supported by a strong background in cloud technologies, CI/CD, and database management. 
+            Earning my Master’s in Computer Science from the University of Central Missouri further honed my technical depth, collaboration skills, and adaptability.
+          </ScrollAnimation>
 
-            <br /><br />
-            
-            <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Science program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at UCM, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the Mindmapping App and BookMyTickets, projects that garnered recognition from my teammates, instructors, and clients alike.
-            </ScrollAnimation>
+          <br /><br />
+
+          <ScrollAnimation animateIn="fadeInLeft">
+            My journey into software engineering began with a passion for solving complex problems and creating real impact through technology. 
+            From developing enterprise-grade solutions at companies like Accenture, Mindtree, and Perficient to leading academic projects such as a <strong>Mindmapping App</strong> and <strong>BookMyTickets</strong>, I’ve consistently delivered high-quality applications recognized by peers, instructors, and clients. 
+            Whether optimizing code for performance, designing robust APIs, or implementing secure cloud-based workflows, I enjoy building systems that truly work for people.
+          </ScrollAnimation>
+
 
             <br /><br />
 
