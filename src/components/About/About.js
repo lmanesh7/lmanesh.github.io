@@ -31,7 +31,7 @@ function About() {
 
           <ScrollAnimation animateIn="fadeInLeft">
             My journey into software engineering began with a passion for solving complex problems and creating real impact through technology. 
-            From developing enterprise-grade solutions at companies like Accenture, Mindtree, and Perficient to leading academic projects such as a <strong>Mindmapping App</strong> and <strong>BookMyTickets</strong>, I’ve consistently delivered high-quality applications recognized by peers, instructors, and clients. 
+            From developing enterprise-grade solutions at companies like Accenture, Mindtree, and Perficient to leading academic projects such as a Mindmapping App and BookMyTickets, I’ve consistently delivered high-quality applications recognized by peers, instructors, and clients. 
             Whether optimizing code for performance, designing robust APIs, or implementing secure cloud-based workflows, I enjoy building systems that truly work for people.
           </ScrollAnimation>
 
