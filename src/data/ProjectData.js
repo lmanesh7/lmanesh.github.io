@@ -53,7 +53,15 @@ export const ProjectList = [
       "This online platform allows users to book and manage flight reservations, receive support, and get airline updates. Airlines have a dashboard to manage flights, routes, schedules, and pricing.",
     tech_stack:  ["ReactJs",  "NodeJs", "MongoDB"],
     github_url: "https://github.com/lmanesh7/sky-travel-frontend",
-    demo_url: "https://lmanesh7.github.io/sky-travel-frontend/",
+    demo_url: "",
+  },
+  {
+    img: "https://www.wionews.com/photos/nasa-teams-with-google-to-build-an-ai-medical-assistant-for-astronauts-on-moon-and-mars-missions-1755513838224",
+    title: "AI Medical Research Assistant",
+description:"An AI-powered research platform leveraging Retrieval-Augmented Generation (RAG) to index 4,000+ medical articles using MongoDB Vector Search. It delivers accurate, context-aware summaries with sub-second latency, bridging the gap between raw data and actionable medical insights.",
+    tech_stack:  ["Python", "React.js", "MongoDB Atlas", "LangChain", "FastAPI", "Docker"],
+    github_url: "https://github.com/lmanesh7/AI-Medical-Research-Assistant-IOP",
+    demo_url: "https://manesh-ai-medical-research.streamlit.app/",
   },
 ];
 
