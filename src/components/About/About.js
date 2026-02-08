@@ -21,18 +21,18 @@ function About() {
           />
         </ScrollAnimation>
           <div className="AboutBio">
-          <ScrollAnimation animateIn="fadeInLeft">
-            Hello! I’m <strong>Laxmana Manesh Jonaboina</strong>, a Full Stack Software Engineer with over 5 years of experience building scalable, secure, and user-friendly applications. 
-            My expertise spans Python, C#, Java, and modern full-stack frameworks like React, Node.js, and .NET, supported by a strong background in cloud technologies, CI/CD, and database management. 
-            Earning my Master’s in Computer Science from the University of Central Missouri further honed my technical depth, collaboration skills, and adaptability.
+<ScrollAnimation animateIn="fadeInLeft">
+            Hello! I’m <strong>Laxmana Manesh Jonaboina</strong>, a Software Engineer specializing in Machine Learning with over 5 years of experience architecting scalable, data-driven systems. 
+            My expertise bridges the gap between model development and production engineering—combining deep proficiency in <strong>Python, PyTorch, and RAG architectures</strong> with a robust background in full-stack systems (React, Node.js) and cloud infrastructure (Kubernetes, Azure). 
+            Earning my Master’s in Computer Science from the University of Central Missouri, where I excelled in Machine Learning, further honed my ability to translate complex algorithms into high-performance, real-world solutions.
           </ScrollAnimation>
 
           <br /><br />
 
           <ScrollAnimation animateIn="fadeInLeft">
-            My journey into software engineering began with a passion for solving complex problems and creating real impact through technology. 
-            From developing enterprise-grade solutions at companies like Accenture, Mindtree, and Perficient to leading academic projects such as a Mindmapping App and BookMyTickets, I’ve consistently delivered high-quality applications recognized by peers, instructors, and clients. 
-            Whether optimizing code for performance, designing robust APIs, or implementing secure cloud-based workflows, I enjoy building systems that truly work for people.
+            My journey into AI began with a passion for turning raw data into actionable intelligence. 
+            From engineering enterprise-scale predictive analytics pipelines at the <strong>Kansas Department of Transportation</strong> to building GenAI-powered tools like my <strong>AI Medical Research Assistant</strong>, I focus on delivering impact through technology. 
+            Whether I'm fine-tuning Transformer models, optimizing vector search retrieval, or designing secure CI/CD workflows for ML deployment, I enjoy solving the "last mile" challenges of bringing AI to production.
           </ScrollAnimation>
 
 
