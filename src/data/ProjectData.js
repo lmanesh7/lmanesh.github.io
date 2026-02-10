@@ -56,7 +56,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "https://www.wionews.com/photos/nasa-teams-with-google-to-build-an-ai-medical-assistant-for-astronauts-on-moon-and-mars-missions-1755513838224",
+    img: "https://cdn1.wionews.com/prod/wion/images/2025/20250818/image-1755522163331.png",
     title: "AI Medical Research Assistant",
 description:"An AI-powered research platform leveraging Retrieval-Augmented Generation (RAG) to index 4,000+ medical articles using MongoDB Vector Search. It delivers accurate, context-aware summaries with sub-second latency, bridging the gap between raw data and actionable medical insights.",
     tech_stack:  ["Python", "React.js", "MongoDB Atlas", "LangChain", "FastAPI", "Docker"],
