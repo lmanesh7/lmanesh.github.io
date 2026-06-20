@@ -145,7 +145,7 @@ export const stackList = [
     name: "Figma",
   },
   {
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png",
+    img: "https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg",
     name: "C Sharp",
   },
   {
@@ -153,7 +153,7 @@ export const stackList = [
     name: "VS Code",
   },
   {
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
+    img: "https://freepnglogo.com/images/all_img/postgresql-logo-e3e7.png",
     name: "PostgreSQL",
   },
   {
@@ -177,7 +177,7 @@ export const stackList = [
     name: "Postman"
   },
   {
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4d3C6dxhtqI4yJKh3yTeYUUjaGhEt_hxvY6RxmWtjGNzhF_6_mjP1gHv&s=10",
     name: "Arduino IDE"
   }
 ];
