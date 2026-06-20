@@ -20,7 +20,7 @@ export const ProjectList = [
     demo_url: "https://project-management-adfc9.web.app/",
   },
   {
-    img: "https://www.mindmapper.com/wp-content/uploads/2019/01/mind-map-graphic-1024x640.jpg",
+    img: require("../assets/Branched-Mind-Map-Presentation-Template.jpg"),
     title: "MindMap",
     description:
       "This tool enables users to quickly capture ideas and organize them into plans, creating tree-like flowcharts for better visualization and structure.",
